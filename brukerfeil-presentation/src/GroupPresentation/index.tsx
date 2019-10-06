@@ -9,7 +9,7 @@ const GroupPresentation = () => {
 				<p>
 					Brukerfeil er en gruppe på seks gutter, som har jobber sammen i over
 					to år. Vi er en engasjert og sammensveiset gjeng, som alltid er klare
-					<br></br>
+					<br />
 					for nye utfordringer. Gruppa ser etter en oppdragsgiver som kan by på
 					et teknisk prosjekt, samt oppfølging.
 				</p>
