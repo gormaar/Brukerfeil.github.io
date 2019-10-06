@@ -14,6 +14,10 @@ const MemberPresentation = () => {
 						}
 						alt=""
 					/>
+					<div>
+						<h4>Egenskaper</h4>
+						<h4>Ferdigheter</h4>
+					</div>
 				</div>
 				<div className={styles.presentation}>
 					<h3>Vegard Alvsaker</h3>
