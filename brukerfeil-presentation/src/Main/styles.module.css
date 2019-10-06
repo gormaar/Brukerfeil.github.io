@@ -2,7 +2,6 @@
 	display: grid;
 	grid-template-columns: 100%;
 	grid-template-rows:
-		calc(var(--grid) * 35) calc(var(--grid) * 30) calc(var(--grid) * 30)
+		calc(var(--grid) * 50) calc(var(--grid) * 30) calc(var(--grid) * 200)
 		calc(var(--grid) * 20);
-	background-color: var(--color-secondary);
 }

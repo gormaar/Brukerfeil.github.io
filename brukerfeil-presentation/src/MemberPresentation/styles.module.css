@@ -1,7 +1,31 @@
 .container {
 }
 
-.container h1 {
-	color: var(--color-primary);
+.container h2 {
+	color: var(--color-secondary);
 	text-align: center;
+	font-size: 40px;
+}
+
+.presentation {
+	background-color: var(--color-secondary);
+	margin: 10px auto;
+	width: 30%;
+	height: calc(var(--grid) * 60);
+	border-radius: 5px;
+}
+
+.presentation h3 {
+	text-align: center;
+	color: var(--color-primary);
+	font-size: 25px;
+	padding-top: 20px;
+}
+
+.presentation img {
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: 0px auto;
+	border-radius: 5px;
 }
