@@ -5,7 +5,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	font-family: Arial, Helvetica, sans-serif;
-	background-color: var(--color-secondary);
+	background-color: var(--color-primary);
 }
 
 h1,

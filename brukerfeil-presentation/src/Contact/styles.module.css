@@ -1,8 +1,7 @@
 .container {
-	background-color: var(--color-secondary);
 }
 
 .container h3 {
-	color: var(--color-primary);
+	color: var(--color-secondary);
 	text-align: center;
 }
